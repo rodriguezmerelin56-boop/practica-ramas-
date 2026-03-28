@@ -1,0 +1,3 @@
+Nombre: Juan Pérez
+Edad: 25
+País: República Dominicana
